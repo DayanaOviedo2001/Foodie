@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_name_text">28sp</dimen>
+    <dimen name="login_title">12sp</dimen>
+    <dimen name="edit_text_login">14sp</dimen>
+    <dimen name="login_button_text">18sp</dimen>
+    <dimen name="login_click_text">14sp</dimen>
+    <dimen name="progress_bar_text">20sp</dimen>
+    <dimen name="header_name">16sp</dimen>
+    <dimen name="header_text">14sp</dimen>
+    <dimen name="food_card_title">16sp</dimen>
+    <dimen name="food_card_discount">16sp</dimen>
+    <dimen name="food_card_name">20sp</dimen>
+    <dimen name="food_card_content">13sp</dimen>
+    <dimen name="favorite_card_discount">16sp</dimen>
+    <dimen name="favorite_card_name">20sp</dimen>
+    <dimen name="favorite_card_price">16sp</dimen>
+    <dimen name="favorite_card_button">14sp</dimen>
+    <dimen name="page_title">18sp</dimen>
+    <dimen name="cart_card_name">20sp</dimen>
+    <dimen name="cart_card_cargo">12sp</dimen>
+    <dimen name="cart_card_content">16sp</dimen>
+    <dimen name="cart_total_title">16sp</dimen>
+    <dimen name="cart_total">16sp</dimen>
+    <dimen name="cart_total_cargo">14sp</dimen>
+    <dimen name="cart_total_button">14sp</dimen>
+    <dimen name="cart_no_data">16sp</dimen>
+    <dimen name="update_account_button">18sp</dimen>
+    <dimen name="product_detail_name">22sp</dimen>
+    <dimen name="product_detail_item">16sp</dimen>
+    <dimen name="product_detail_price">20sp</dimen>
+    <dimen name="order_text">28sp</dimen>
+</resources>

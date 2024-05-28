@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_page">#FFF8EB</color>
+    <color name="login_title">#A9ABB6</color>
+    <color name="bg_bottom_unselected">#EBEBEE</color>
+    <color name="bg_bottom_selected">#F26A4B</color>
+    <color name="bg_login_button">#F26A4B</color>
+    <color name="progress_bar">#F26A4B</color>
+    <color name="bottom_nav_icon_unselected">#A9ABB6</color>
+    <color name="bottom_nav_icon_selected">#F26A4B</color>
+    <color name="header_text">#A9ABB6</color>
+    <color name="bg_search_view">#FFEEC0</color>
+    <color name="search_view_border">#A9ABB6</color>
+    <color name="bg_food_card">#FFEEC0</color>
+    <color name="food_card_border">#A9ABB6</color>
+    <color name="food_card_item">#F26A4B</color>
+    <color name="bg_favorite_card">#FFEEC0</color>
+    <color name="favorite_card_border">#A9ABB6</color>
+    <color name="favorite_card_item">#F26A4B</color>
+    <color name="bg_cart_card">#FFEEC0</color>
+    <color name="cart_card_border">#A9ABB6</color>
+    <color name="cart_card_item">#F26A4B</color>
+    <color name="cart_total">#F26A4B</color>
+    <color name="cart_total_cargo">#18A80F</color>
+    <color name="account_card_item">#474747</color>
+    <color name="bg_update_button">#F26A4B</color>
+    <color name="product_detail_favorite">#A9ABB6</color>
+    <color name="product_detail_item">#F26A4B</color>
+    <color name="product_detail_star">#FFDD00</color>
+</resources>
