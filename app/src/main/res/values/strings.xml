@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Aik Food</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_title">Correo electronico</string>
+    <string name="password_title">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión o acceder</string>
+    <string name="sign_up_click_text">¿No tienes una cuenta? ¡Crea una cuenta!</string>
+    <string name="progress_bar_text">Iniciando sesión...</string>
+    <string name="email_title">Email</string>
+    <string name="username_title">Nombre de usuario</string>
+    <string name="sign_up_button_text">Crear cuenta</string>
+    <string name="login_click_text">¿Tienes una cuenta? ¡Inicia sesión!</string>
+    <string name="buttom_nav_home">Inicio</string>
+    <string name="buttom_nav_favorites">Mis favoritos</string>
+    <string name="buttom_nav_cart">Mi carrito</string>
+    <string name="buttom_nav_account">Mi cuenta</string>
+    <string name="header_name">Hola, %1$s</string>
+    <string name="header_text">¿Qué comida pedirás hoy?</string>
+    <string name="food_card_title">Comida personalizada para ti</string>
+    <string name="discount_text">10% descuento</string>
+    <string name="cargo_text">Envío Gratuito</string>
+    <string name="time_text">15–20 min</string>
+    <string name="favorite_discount_text">-10%</string>
+    <string name="cart_button_text">Agregar al carrito</string>
+    <string name="cart_cargo_text">Entrega al repartidor en 15 minutos</string>
+    <string name="cart_total_title">Total</string>
+    <string name="cart_total_cargo">Envío gratis</string>
+    <string name="cart_total_button">Confirmar carrito</string>
+    <string name="cart_no_data">No hay productos en su carrito</string>
+    <string name="update_account_button">Actualizar</string>
+    <string name="product_detail_title">Detalles del producto</string>
+    <string name="product_detail_star">Calificación: 4.4 de 289 reseñas</string>
+    <string name="order_text">Su pedido ha sido recibido</string>
+</resources>
